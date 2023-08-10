@@ -1,6 +1,7 @@
 <div align = center>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Seungmin's%20Github&animation=twinkling&fontColor=ffffff&fontSize=70" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Seungmin's%20Github&fontAlign=55&FontAlignY=40&animation=twinkling&fontColor=ffffff&fontSize=70&stroke=00FF00&strokeWidth=2" />
 </div>
+
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
 	<p>✨ Platforms & Languages ✨</p>
