@@ -3,8 +3,8 @@
 </div>
 <br>
 <div align = "center">
-	<h3>☝️Primary Major</h3><p>Biomedical Engineering</p>
-	<h3>✌️Double Major</h3><a>Computer Science</a>
+	<h3>🩺Primary Major🩻</h3><p>Biomedical Engineering</p>
+	<h3>🖥️Double Major🖥️</h3><a>Computer Science</a>
 </div>
 <br>
 <br>
