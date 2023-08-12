@@ -46,9 +46,11 @@
 <br>
 <br>
 <br>
-<div align="center">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smink112&layout=compact"><br><br>
-	<!--
-	<img src="https://github-readme-stats.vercel.app/api?username=smink112&show_icons=true">
-	-->
-</div>
+<table border-collaspe = collaspe, align = center>
+<tbody>
+<tr style="width: 100%;">
+<td style="width: 50%;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smink112&layout=compact"></td>
+<td style="width: 30%;"><img src="https://github-readme-stats.vercel.app/api?username=smink112&show_icons=true"></td>
+</tr>
+</tbody>
+</table>
