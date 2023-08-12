@@ -2,6 +2,10 @@
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&fontColor=FFFFFF&fontSize=60&fontAlign=65&animation=twinkling&text=Seungmin's%20Github!-nl-&desc=Trainning%20at%20SSAFY&descAlign=85&descAlignY=48"/>
 </div>
 <br>
+<div align = "center">
+	<h3>☝️Primary Major</h3><p>Biomedical Engineering</p>
+	<h3>✌️Double Major</h3><a>Computer Science</a>
+</div>
 <br>
 <br>
 <div align="center">
