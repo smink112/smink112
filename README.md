@@ -50,6 +50,7 @@
 <br>
 <br>
 <br>
+<!--
 <table border-collaspe = collaspe, align = center>
 <tbody>
 <tr style="width: 100%;">
@@ -58,3 +59,9 @@
 </tr>
 </tbody>
 </table>
+-->
+<div align = "center">
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=smink95)](https://solved.ac/smink95/)
+
+</div>
