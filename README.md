@@ -65,3 +65,8 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=smink95)](https://solved.ac/smink95/)
 
 </div>
+<div align = "center">
+
+![](./profile-3d-contrib/profile-green-animate.svg)
+ 
+</div>
