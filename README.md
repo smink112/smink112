@@ -7,6 +7,8 @@
 	<h3>🖥️Double Major🖥️</h3><a>Computer Science</a>
 </div>
 <br>
+
+<!--
 <br>
 <div align="center">
 	<h3>📚 Tech Stack 📚</h3>
@@ -48,6 +50,7 @@
 </div>
 <br>
 <br>
+-->
 <br>
 <br>
 <!--
