@@ -1,5 +1,5 @@
 <div align="center">
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&fontColor=FFFFFF&fontSize=60&fontAlign=65&animation=twinkling&text=Seungmin's%20Github!-nl-&desc=Trainning%20at%20SSAFY&descAlign=85&descAlignY=48"/>
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&fontColor=FFFFFF&fontSize=60&fontAlign=65&animation=twinkling&text=Seungmin's%20Github!"/>
 </div>
 <br>
 <div align = "center">
