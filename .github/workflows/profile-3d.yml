@@ -15,7 +15,9 @@ jobs:
       - name: Check for Today's Commit
         id: check_commit
         run: |
-          if git log --since=midnight --oneline | grep -q .; then
+          echo "Checking commits for user: ${{ github.repository_owner }}"
+          commits=$(curl -s -H "Authorization: token ${{ secrets.TOKEN }}" "https://api.github.com/search/commits?q=author:${{ github.repository_owner }}+committer-date:$(date +%Y-%m-%d)" -H "Accept: application/vnd.github.cloak-preview")
+          if [[ $(echo "$commits" | jq '.total_count') -gt 0 ]]; then
             echo "commit_exists=true" >> $GITHUB_ENV
           else
             echo "commit_exists=false" >> $GITHUB_ENV
@@ -31,8 +33,8 @@ jobs:
       - name: Commit & Push
         if: env.commit_exists == 'true'
         run: |
-          git config user.name smink112
-          git config user.email smink95@naver.com
+          git config user.name ${{USERNAME}}
+          git config user.email ${{USEREMAIL}}
           git add -A .
           git commit -m "generated"
           git push
