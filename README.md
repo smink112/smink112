@@ -63,7 +63,7 @@
 </tbody>
 </table>
 -->
-<div align = "center">
+<!-- <div align = "center">
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=smink95)](https://solved.ac/smink95/)
 
@@ -73,3 +73,4 @@
 ![](./profile-3d-contrib/profile-gitblock.svg)
 
 </div>
+ -->
